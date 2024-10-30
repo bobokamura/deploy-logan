@@ -43,6 +43,7 @@ Este guia fornece instruções detalhadas sobre como realizar um deploy do LOGAN
 
 11. **Aguardar o LOGAN subir novamente e verificar no log e máquina base, para confirmar se está tudo certo.**
     - ![image (5)](https://github.com/user-attachments/assets/4d5eaeed-7384-4292-8582-838b6aabad53)
+      - http://54.226.132.182:8084/CTFLLogan-webapp
       - Observar o começo da tag `<head>` e confirmar se versão está correta.
 
 
